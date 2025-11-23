@@ -3,7 +3,7 @@ The problem statement for a cab fare estimator typically is:
 
 To design a system that predicts the fare amount for a cab ride based on factors such as the distance traveled, pickup location, and time. This system aims to provide accurate fare estimates to customers by using historical data of previous rides or predefined fare rates including base fare, per kilometer charges, and any additional charges like waiting time or surcharges.
 
-In essence, the problem is to create a mathematical or algorithmic model that, given inputs like distance and timing, outputs the expected fare for a cab trip. This helps cab service providers to automate fare calculation and allows customers to estimate their trip cost upfront.
+In essence, the problem is to create a mathematical or algorithmic model that, given inputs like distance and timing, outputs the expected fare for a cab trip. This help cab service providers to automate fare calculation and allows customers to estimate their trip cost upfront.
 
 For example, a project might describe it as predicting the cab fare amount from input variables like distance, pickup coordinates, and time, minimizing the error between predicted and actual fare amounts.​
 
@@ -14,7 +14,7 @@ The scope of a cab fare estimator project generally includes the following key a
 
 2. Providing a tool for users to estimate trip costs upfront for better transparency and planning.
 
-3. Enabling cab operators to optimize fare management and offer competitive pricing.
+3. Enablin\g cab operators to optimize fare management and offer competitive pricing.
 
 4. Incorporating features such as user input for distance or pickup and drop locations, and outputting the fare based on          predefined tariff rules or predictive models.
 
@@ -44,7 +44,7 @@ High-level features of a cab fare estimator system typically include:
 
 1. Distance-based fare calculation using predefined base fare and per-kilometer rates.
 
-2. Interactive map integration (e.g., Mapbox) to select pickup and drop-off points and visualize routes.
+2. Interactiv map integration (e.g., Mapbox) to select pickup and drop-off points and visualize routes.
 
 3. Fare comparison across multiple service providers or vehicle types.
 
@@ -58,4 +58,4 @@ High-level features of a cab fare estimator system typically include:
 
 8. Backend APIs for fare calculation, user management, and trip data handling.
 
-These features ensure a user-friendly, accurate, and transparent fare estimating tool for passengers and operators, with extensibility for advanced options like machine learning-based fare predictions.​
+These feature ensure a user-friendly, accurate, and transparent fare estimating tool for passengers and operators, with extensibility for advanced options like machine learning-based fare predictions.​
