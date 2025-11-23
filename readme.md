@@ -1,6 +1,6 @@
 PROJECT TITLE : Develop a Cab Fare estiator bases on distance.
 
-OVERVIEW OF THE PROJECT : This Python taxi fare estimator project is designed to compute the total taxi fare for a trip by incorporating key variables such as trip distance, passenger count, vehicle type, round trip indicator, and waiting time. It uses predefined base fares and per kilometer rates for multiple vehicle categories (HATCHBACK, SEDAN, SUV, PREMIUM SEDAN), allowing the fare calculation to reflect different pricing tiers.
+OVERVIEW OF THE PROJECT : This Python taxi fare estimator project is designed to compute the total taxi fare for a trip by incorporating key variables such as trip distance, passenger count, vehicle type, round trip indicator, and waiting time. It uses predefineD base fares and per kilometer rates for multiple vehicle categories (HATCHBACK, SEDAN, SUV, PREMIUM SEDAN), allowing the fare calculation to reflect different pricing tiers.
 
 THE PROJECT FEATURES :
 
