@@ -10,7 +10,7 @@ For example, a project might describe it as predicting the cab fare amount from 
 SCOPE OF THE PROJECT:
 The scope of a cab fare estimator project generally includes the following key aspects:
 
-1. Developing a system that accurately calculates cab fare based primarily on distance traveled, including additional parameters like base fare, waiting time, and surcharges.
+1. Developiing a system that accurately calculates cab fare based primarily on distance traveled, including additional parameters like base fare, waiting time, and surcharges.
 
 2. Providing a tool for users to estimate trip costs upfront for better transparency and planning.
 
@@ -18,7 +18,7 @@ The scope of a cab fare estimator project generally includes the following key a
 
 4. Incorporating features such as user input for distance or pickup and drop locations, and outputting the fare based on          predefined tariff rules or predictive models.
 
-5. Potentially expanding to integrate real-time data inputs like traffic conditions and time of travel for more accurate dynamic fare calculations.
+5. Potentially expandng to integrate real-time data inputs like traffic conditions and time of travel for more accurate dynamic fare calculations.
 
 6. Designing the system to be user-friendly, scalable, and efficient for practical everyday usage.
 
