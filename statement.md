@@ -16,7 +16,7 @@ The scope of a cab fare estimator project generally includes the following key a
 
 3. Enablin\g cab operators to optimize fare management and offer competitive pricing.
 
-4. Incorporating features such as user input for distance or pickup and drop locations, and outputting the fare based on          predefined tariff rules or predictive models.
+4. Incorporating features such as user input for distance or pickup and drop locations, and outputting the fare based on          predefined tarif rules or predictive models.
 
 5. Potentially expandng to integrate real-time data inputs like traffic conditions and time of travel for more accurate dynamic fare calculations.
 
