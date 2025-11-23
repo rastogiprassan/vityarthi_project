@@ -4,7 +4,7 @@ OVERVIEW OF THE PROJECT : This Python taxi fare estimator project is designed to
 
 THE PROJECT FEATURES :
 
-1. Input handling for journey distance, number of passengers, round trip option, vehicle type selection, waiting time in minutes, and waiting charge per minute.
+1. Input handlng for journey distance, number of passengers, round trip option, vehicle type selection, waiting time in minutes, and waiting charge per minute.
 2. Round trip logic that doubles the distance for fare calculation.
 3.  Dynamic rate look-up for different vehicle types using a dictionary.
 4. Calculation of waiting charges by multiplying waiting minutes with a per-minute waiting rate.
