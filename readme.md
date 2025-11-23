@@ -1,13 +1,13 @@
 PROJECT TITLE : Develop a Cab Fare estiator bases on distance.
 
-OVERVIEW OF THE PROJECT : This Python taxii fare estimator project is designed to compute the total taxi fare for a trip by incorporating key variables such as trip distance, passenger count, vehicle type, round trip indicator, and waiting time. It uses predefined base fares and per kilometer rates for multiple vehicle categories (HATCHBACK, SEDAN, SUV, PREMIUM SEDAN), allowing the fare calculation to reflect different pricing tiers.
+OVERVIEW OF THE PROJECT : This Python taxi fare estimator project is designed to compute the total taxi fare for a trip by incorporating key variables such as trip distance, passenger count, vehicle type, round trip indicator, and waiting time. It uses predefined base fares and per kilometer rates for multiple vehicle categories (HATCHBACK, SEDAN, SUV, PREMIUM SEDAN), allowing the fare calculation to reflect different pricing tiers.
 
 THE PROJECT FEATURES :
 
-1. Input handling for journey distance, number of passengers, round trip option, vehicle type selection, waiting time in minutes, and waiting charge per        minute.
+1. Input handling for journey distance, number of passengers, round trip option, vehicle type selection, waiting time in minutes, and waiting charge per minute.
 2. Round trip logic that doubles the distance for fare calculation.
 3.  Dynamic rate look-up for different vehicle types using a dictionary.
-4. Calculation of waiting charges by multiplying wating minutes with a per-minute waiting rate.
+4. Calculation of waiting charges by multiplying waiting minutes with a per-minute waiting rate.
 5. A final computed fare that sums base fare, distance-based fare, and waiting fees.
 
 This approach provides a customizable, extendable, and user-friendly fare estimation tool that can simulate realistic taxi fare computations based on common billing practices. It supports varying fare structures by vehicle and includes additional charges like waiting time, making it applicable for practical taxi service scenarios. The codebase is modular and easy to maintain or enhance with further features like surge pricing or fare caps.
@@ -35,7 +35,7 @@ Copy the taxi fare calculator code into this file.
 
 STEP 3: 
 Run the Program
-Open a terminal or command prompt.
+Open a terminal or comand prompt.
 Navigate to the directory containing taxi_fare_calculator.py.
 Run the script with python taxi_fare_calculator.py or python3 taxi_fare_calculator.py.
 
@@ -56,5 +56,5 @@ INSTRUCTIONS FOR TESTING :
    Total fare = base fare + (per km rate × distance) + (waiting time × waiting charge per minute)
    Distance doubles if round trip is selected.
 5. Test boundary cases: zero waiting time, one passenger, round trip yes/no, invalid vehicle input (should default).
-6. Repeat with multiple data sets to verify consistent behavior.
+6. Repeat with multiple data sets to verify consistnt behavior.
 7. Optionally, add assertions or unit tests on the calculation function for automated testing.
